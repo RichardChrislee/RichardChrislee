@@ -15,7 +15,7 @@ Tech Stack
   <img src="https://img.shields.io/badge/Tools-Xcode-blue" />
 </p>
 Projects Showcase
-🚀 [Project 1]: [Buddhayana](httpz://play.google.com/store/apps/details?id=com.buddhayana.buddhayana_app)
+🚀 [Project 1]: [Buddhayana](https://play.google.com/store/apps/details?id=com.buddhayana.buddhayana_app)
 🌟 [Project 2]: [Paramita](https://play.google.com/store/apps/details?id=com.paramita.paramita_app)
 
 Let's Connect 🌍
